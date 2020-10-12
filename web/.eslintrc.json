@@ -3,7 +3,13 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["plugin:react/recommended", "airbnb"],
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb",
+    "prettier",
+    "prettier/react",
+    "react-app"
+  ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
@@ -23,6 +29,7 @@
     "react/jsx-props-no-spreading": 0,
     "global-require": "off",
     "import/prefer-default-export": "off",
+    "no-use-before-define": "off",
     "no-unused-expressions": ["error", { "allowTaggedTemplates": true }]
   }
 }
