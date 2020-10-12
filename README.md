@@ -2,10 +2,28 @@
   <img src=".github/logo.svg" alt="Happy" />
 </p>
 
-</br>
-
 <p align="center">
   <b>Conecte pessoas a orfanatos e traga felicidade as crianças.</b>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="Node.js version" src="https://img.shields.io/badge/node-v12.18.0-brightgreen">
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank">
+    <img alt="Yarn version" src="https://img.shields.io/badge/yarn-v1.22.4-blue%20">
+  </a>
+  <a>
+    <img alt="Eslint style guide" src="https://img.shields.io/badge/eslint-airbnb-red">
+  </a>
+  <a href="https://rocketseat.com.br/" target="_blank">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2300c7c7">
+  </a>
+  <a href="LICENSE.md" target="_blank">
+    <img alt="LICENSE" src="https://img.shields.io/github/license/vitorserrano/task-manager?color=7159C1">
+  </a>
 </p>
 
 ## Conteúdo
